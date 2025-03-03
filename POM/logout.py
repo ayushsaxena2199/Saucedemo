@@ -1,5 +1,4 @@
 import time
-
 from POM.login import Login
 from _library.Selenium_wrapper import SeleniumWrapper
 from data.excel_read import logout_locator
